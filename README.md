@@ -1,7 +1,7 @@
 # Basic-Spring-Security-Demo
 Basic Spring Security Demo with JPA and JWT.
 
-We will have Entities with fields:
+We will have Entities with fields:\
 User: oid, user_name, password\
 Authority: oid, name\
 Role: oid, name\
